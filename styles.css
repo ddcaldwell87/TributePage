@@ -1,0 +1,27 @@
+body {
+  background: #e4e4e4;
+  margin: 2% 10%;
+  color: #333
+}
+
+#head {
+  margin-bottom: 3%;
+  color: #333;
+}
+
+span {
+  font-weight: bold;
+}
+
+.thumbnail, .panel, panel-defualt {
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px #bfbfbf;
+}
+
+li {
+  margin: 15px 10%;
+}
+
+.glyphicon-heart {
+  color: #990000;
+}
